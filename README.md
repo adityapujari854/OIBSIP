@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Projects By Aditya Pujari
+Oasis Infobyte Internship Tasks - Aditya Pujari
