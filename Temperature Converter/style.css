@@ -1,0 +1,31 @@
+.h1 {
+    color: springgreen;
+    text-shadow: -2px 4px 5px black;
+}
+
+.container {
+    height: 110ch;
+    width: 100%;
+    background-image: url(images/temp.jpg);
+    background-size: cover;
+    position: fixed;
+    text-align: center;
+}
+
+.converter {
+    padding-top: 130px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: greenyellow;
+    text-shadow: 0px 0px 3px black;
+}
+
+.label {
+    padding-right: 10.5ch;
+}
+
+.btn1 {
+    border-width: 1px;
+    background-color: #24a0ed;
+    color: whitesmoke;
+}
